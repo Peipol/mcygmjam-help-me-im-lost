@@ -28,7 +28,7 @@ To build and serve the examples locally:
 cd noa-examples
 npm install
 npm start     # runs /src/hello-world
-npm test      # runs /src/test
+npm gamejam      # runs gamejam game
 ```
 
 The `start` and `test` scripts serve each world via `webpack-dev-server`, so you should be able to find them at `localhost:8080` or thereabouts.
